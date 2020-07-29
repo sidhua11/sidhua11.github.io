@@ -2,7 +2,10 @@
 
 /* Text inside these asterisks and slashes are comments for human */
   p {
-  word-spacing: normal;
+  word-spacing: 5px;
+  }
+  p.a {
+  word-spacing: 15px;
   }
 
   a {
