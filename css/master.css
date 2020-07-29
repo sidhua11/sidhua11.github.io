@@ -4,9 +4,7 @@
   p {
   word-spacing: 5px;
   }
-  p.a {
-  word-spacing: 15px;
-  }
+  
 
   a {
     color: blue; /* set the text color to blue here */
