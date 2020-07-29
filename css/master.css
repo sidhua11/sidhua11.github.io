@@ -5,6 +5,10 @@
   word-spacing: 5px;
   }
   
+  p.link {
+  word-spacing: 5px;
+  }
+  
 
   a {
     color: blue; /* set the text color to blue here */
