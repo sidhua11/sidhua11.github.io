@@ -1,6 +1,9 @@
 /* Cascading stylesheet for the website */
 
 /* Text inside these asterisks and slashes are comments for human */
+  p {
+  word-spacing: 30px;
+  }
 
   a {
     color: blue; /* set the text color to blue here */
