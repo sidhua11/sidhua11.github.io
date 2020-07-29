@@ -18,6 +18,7 @@
   a.email {
     color: blue; /* set the text color to blue here */
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
+    font-size: 16px;
   }
 
   a:hover {
